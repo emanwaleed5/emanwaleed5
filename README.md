@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eman Eldeeb
 - 👀 I’m interested in programming 
 - 🌱 I’m currently computer engineering student
-- 📫 ypu can reatch me on ewaleed188@gmail.com
+- 📫 you can reatch me on ewaleed188@gmail.com
 
 <!---
 emanwaleed5/emanwaleed5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
